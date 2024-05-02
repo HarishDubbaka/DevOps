@@ -1,2 +1,3 @@
 The TerraFraom is a IAAS
 this is used for the automation
+It uses configuration files written in the HashiCorp Configuration Language (HCL) to define the desired state of your infrastructure, and it uses various commands to apply those configurations and manage your infrastructure resources.
